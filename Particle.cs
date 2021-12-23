@@ -5,6 +5,7 @@ namespace CourseWork_V.Dodonova
 {
     public class Particle
     {
+        public int radius1=0;
         public int radius; // Обозначаем радиус частиц
         public float X; // X координата положения частицы в пространстве
         public float Y; // Y координата положения частицы в пространстве
